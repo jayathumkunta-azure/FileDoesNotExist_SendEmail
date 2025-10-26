@@ -1,6 +1,6 @@
 # FileDoesNotExist_SendEmail
 
-# add inside Logic app
+add inside Logic app
 {
     "properties":{
     "DataFactoryName": {"type":"string"},
