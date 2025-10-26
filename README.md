@@ -40,3 +40,12 @@ EmpID,Name,Job,Salary,DNO,Location
 204,Priya,HR,60000,4,Hyderabad
 
 
+rgEmail
+logicappEmail
+datafactoryemailjaya
+serveremployee
+storageaccountemail (files/emp.csv)
+databaseEmployee (serveremployee/databaseEmployee)
+
+<img width="931" height="262" alt="image" src="https://github.com/user-attachments/assets/00fbbfaf-9f9b-45ce-a141-e51c437e39dc" />
+
